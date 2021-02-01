@@ -12,6 +12,9 @@ git commit -m "Veiktas izmaiņas!"
 git push origin main
 
 git config --global user.email armandsliepa3@gmail.com
-git config --global user.name Armands Liepa
+git config --global user.name armands62
 
 ```
+
+## Izmantotā literatūra
+Super grāmata
