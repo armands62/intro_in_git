@@ -14,7 +14,7 @@ git push origin main
 git status # uzzināt kāds ir status
 
 git config --global user.email armandsliepa3@gmail.com
-git config --global user.name armands62
+git config --global user.name Armands Liepa
 
 ```
 
